@@ -1,0 +1,26 @@
+[
+  {
+    "question": "All cats are born with what color eyes?",
+    "choice1": "Gray",
+    "choice2": "Blue",
+    "choice3": "Green",
+    "choice4": "Yellow",
+    "answer": 2
+  },
+  {
+    "question": "How many whiskers does the average cat have on each side of its face?",
+    "choice1": "2",
+    "choice2": "4",
+    "choice3": "12",
+    "choice4": "1200",
+    "answer": 3
+  },
+  {
+    "question": "When does a cat purr?",
+    "choice1": "When it cares for its kittens",
+    "choice2": "When it needs comfort",
+    "choice3": "When it feels content",
+    "choice4": "All of the above",
+    "answer": 4
+  }
+]
